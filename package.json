@@ -1,13 +1,16 @@
 {
   "name": "ember-boring-avatars",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember boring avatars is a tiny JavaScript Ember addon that generates custom, SVG-based avatars from any username and color palette.",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshbabier/ember-boring-avatars"
+  },
   "license": "MIT",
-  "author": "",
+  "author": "joshbabier",
   "directories": {
     "doc": "doc",
     "test": "tests"
