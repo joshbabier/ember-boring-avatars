@@ -13,6 +13,7 @@
 /.eslintcache
 /.eslintignore
 /.eslintrc.js
+/.idea/
 /.git/
 /.gitignore
 /.template-lintrc.js
