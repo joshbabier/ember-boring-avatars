@@ -1,6 +1,6 @@
 {
   "name": "ember-boring-avatars",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Ember boring avatars is a tiny JavaScript Ember addon that generates custom, SVG-based avatars from any username and color palette.",
   "keywords": [
     "ember-addon"
